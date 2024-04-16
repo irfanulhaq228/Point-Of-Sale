@@ -1,0 +1,101 @@
+.categoryMain {
+    margin: 1rem 2rem !important;
+    border: 1px solid rgba(0, 0, 0, 0.179);
+    border-radius: 0.3rem;
+    padding: 0 1.3rem !important;
+}
+
+.categoryTitle {
+    padding: 0.6rem 0 !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.179);
+}
+
+.inputCategory {
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.229);
+    height: 2rem;
+    margin: 0 0.7rem !important;
+    background-color: rgba(250, 235, 215, 0.174);
+    border-radius: 0.2rem;
+    font-size: 0.9rem;
+    padding-left: 0.4rem !important;
+    display: flex;
+}
+.descFoodIn{
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.229);
+    height: 2rem;
+    margin: 0 0.7rem !important;
+    background-color: rgba(250, 235, 215, 0.174);
+    border-radius: 0.2rem;
+    font-size: 0.9rem;
+    padding-left: 0.4rem !important;
+    display: flex;
+
+}
+
+.inputCategoryFile {
+    width: 100%;
+    padding-top: 1px !important;
+    border: 1px solid rgba(0, 0, 0, 0.229);
+    height: 2rem;
+    margin: 0 0.7rem !important;
+    background-color: rgba(250, 235, 215, 0.174);
+    border-radius: 0.2rem;
+    font-size: 0.9rem;
+    padding-left: 0.3rem !important;
+    display: flex;
+}
+.inputCategoryFileTwo{
+    padding-left: 0rem !important;
+
+}
+
+.inputCategory:focus {
+    background-color: white;
+    outline: 1px solid #86C665 !important;
+}
+
+.btnCategory {
+    padding: 0.5rem 1rem !important;
+    display: flex;
+    align-items: center;
+}
+.btnAdd{
+    display: flex;
+    text-align: center !;
+    margin-left: 11rem !important;
+    background: deeppink;
+    padding: 0.31em 0.75em !important;
+    align-items: center;
+    justify-content: space-between;
+    color: aliceblue;
+    border: 1px;
+}
+.selectImage
+{
+    height: 13em;
+    width: 13em;
+}
+.container-rep {
+    display: flex;
+    flex-direction: row;
+    margin-left: 2em !important;
+    margin-top: 0.41em !important;
+    margin-bottom: 0.41em !important;
+  
+  
+  }
+  .home {
+    color: #57aa18;
+    margin-left: 0.41em;
+    margin-top: 0.2em;
+    font-size: 4em;
+  }
+  .report {
+    margin-left: 2em !important;
+  }
+  .block{
+    height: 20em;
+    width: 100%;
+  }

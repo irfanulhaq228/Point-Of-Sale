@@ -1,0 +1,36 @@
+.posPorductBox {
+    padding: 0.5rem;
+}
+
+.posPorductBox:hover {
+    scale: 1.05;
+}
+
+.posPorductBox>div {
+    border: 1px solid rgba(0, 0, 0, 0.171);
+    border-radius: 0.3rem;
+    padding: 0.2rem;
+    cursor: pointer;
+}
+
+.posProduct {
+    height: 50vh !important;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding: 0 1rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.234);
+}
+
+.paymentPOSMain {
+    border: 1px solid rgba(0, 0, 0, 0.171);
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+}
+
+.singleOrderDetail {
+    border: 1px solid rgba(0, 0, 0, 0.138);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: rgba(61, 5, 5, 0.015);
+}
